@@ -1,4 +1,4 @@
-<h1>Lobo - Desenvolvedor e Designer</h1>
+<h1>Lobo - Desenvolvedor Front End e UX/UI Designer</h1>
 
 ![lobo-portfolio](https://github.com/stephanybrazeir0/stephanybrazeir0.github.io/assets/126080431/9a23f73d-6223-4f09-baa3-250ce0fa25b3)
 
